@@ -62,9 +62,6 @@
 <p>
   Actualmente me dedico a profundizar mis conocimientos en desarrollo <b>Fullstack</b> y arquitectura de sistemas, mientras construyo las bases técnicas necesarias para mi transición profesional hacia la <b>Ciberseguridad y el Pentesting</b>.
 </p>
-<p align="center">
-  <img src="banner.png" alt="Ramiro Bazán Banner" width="100%">
-</p>
 
 ## 📋 Current Goals
 - [ ] Avanzar en la carrera de Ingeniería en Sistemas (UTN FRC).
