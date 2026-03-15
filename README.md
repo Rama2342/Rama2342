@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_TU_BANNER_GENERADO" alt="Banner Ramiro Bazán" width="100%">
+  <img src="Gemini_Generated_Image_7xaab27xaab27xaa.png" alt="Banner Ramiro Bazán" width="100%">
 </p>
 
 <h1 align="center">¡Hola! Soy Ramiro Bazán 👋</h1>
