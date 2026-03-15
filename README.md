@@ -31,14 +31,7 @@
         <li>📧 <b>Email:</b> <a href="mailto:ramirobazan2007@gmail.com">ramirobazan2007@gmail.com</a></li>
         <li>📱 <b>Teléfono:</b> +54 351 312-6670</li>
         <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ramiro-bazán-9917783b7/">Ramiro Bazán</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<td width="50%" valign="top">
-  <h3>📞 Contacto & Redes</h3>
-  <a href="https://www.linkedin.com/in/ramiro-bazán-9917783b7/" target="_blank">
+          <a href="https://www.linkedin.com/in/ramiro-bazán-9917783b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <br>
@@ -49,9 +42,10 @@
   <a href="mailto:ramirobazan2007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <p>📱 <b>WhatsApp:</b> +54 351 312-6670</p>
-</td>
-<hr>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <h3>🛠️ Stack Técnico & Herramientas</h3>
 <p>
