@@ -30,7 +30,7 @@
       <ul>
         <li>📧 <b>Email:</b> <a href="mailto:ramirobazan2007@gmail.com">ramirobazan2007@gmail.com</a></li>
         <li>📱 <b>Teléfono:</b> +54 351 312-6670</li>
-        <li>💼 <b>LinkedIn:</b> <a href="#">Tu Perfil Aquí</a></li>
+        <li>💼 <b>LinkedIn:</b> <a href="#">https://www.linkedin.com/in/ramiro-baz%C3%A1n-9917783b7/</a></li>
       </ul>
     </td>
   </tr>
