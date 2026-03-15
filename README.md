@@ -30,7 +30,7 @@
       <ul>
         <li>📧 <b>Email:</b> <a href="mailto:ramirobazan2007@gmail.com">ramirobazan2007@gmail.com</a></li>
         <li>📱 <b>Teléfono:</b> +54 351 312-6670</li>
-        <li>💼 <b>LinkedIn:</b> <a href="#">https://www.linkedin.com/in/ramiro-baz%C3%A1n-9917783b7/</a></li>
+        <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ramiro-bazán-9917783b7/">Ramiro Bazán</a></li>
       </ul>
     </td>
   </tr>
@@ -62,10 +62,39 @@
 <p>
   Actualmente me dedico a profundizar mis conocimientos en desarrollo <b>Fullstack</b> y arquitectura de sistemas, mientras construyo las bases técnicas necesarias para mi transición profesional hacia la <b>Ciberseguridad y el Pentesting</b>.
 </p>
-
-<hr>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rama2342&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rama2342&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="banner.png" alt="Ramiro Bazán Banner" width="100%">
+</p>
+
+## 📋 Current Goals
+- [ ] Avanzar en la carrera de Ingeniería en Sistemas (UTN FRC).
+- [ ] Profundizar conocimientos en Pentesting y Auditoría de Redes.
+- [ ] Documentar el desarrollo de mi Home Server con Orange Pi.
+- [ ] Finalizar mis proyectos de automatización con Python.
+- [ ] Lograr mi primera certificación en Ciberseguridad.
+
+## 💼 Technical Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 💻 Proyectos en Foco
+* **Inventory ERP:** Sistema de gestión con React, Node.js y Docker.
+* **Home Server Lab:** Configuración de NAS y Web Server sobre Orange Pi 5.
+* **Python Tools:** Scripts de automatización e integración con bases de datos.
+
+## 📈 GitHub Stats
+![Ramiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rama2342&show_icons=true&theme=tokyonight)
+
+## ⌨️ Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama2342&layout=compact&theme=tokyonight)](https://github.com/Rama2342/github-readme-stats)
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FF26&center=true&vCenter=true&width=435&lines=Scanning+vulnerabilities...;System+Secured;Welcome+to+my+profile" alt="Typing SVG" />
 </p>
