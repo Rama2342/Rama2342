@@ -36,6 +36,21 @@
   </tr>
 </table>
 
+<td width="50%" valign="top">
+  <h3>📞 Contacto & Redes</h3>
+  <a href="https://www.linkedin.com/in/ramiro-bazán-9917783b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <br>
+  <a href="https://www.instagram.com/_ramiibbazan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <br>
+  <a href="mailto:ramirobazan2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <p>📱 <b>WhatsApp:</b> +54 351 312-6670</p>
+</td>
 <hr>
 
 <h3>🛠️ Stack Técnico & Herramientas</h3>
